@@ -1,11 +1,11 @@
 # Site settings
-title: 张宇的博客
-SEOTitle: 张宇的博客
+title: zhang yu 's playground
+SEOTitle: zhang yu 's playground
 header-img: img/13-spitzer-ngc1333.jpg
 email: pczhangyu@gmail.com
 description: "人无远虑，必有近忧！"
 keyword: "java, scala, python, mysql, elasticsearch, hadoop, gitHub, 并发编程, 软件定制, 个人网站, 互联网, 产品"
-url: "http://91888lucky.com"              # your host, for absolute URL
+url: "http://feecn.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
