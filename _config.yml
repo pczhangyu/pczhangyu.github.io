@@ -1,6 +1,6 @@
 # Site settings
-title: Get Lucky
-SEOTitle: Get Lucky Blog
+title: 张宇的博客
+SEOTitle: 张宇的博客
 header-img: img/13-spitzer-ngc1333.jpg
 email: pczhangyu@gmail.com
 description: "人无远虑，必有近忧！"
@@ -56,7 +56,7 @@ netease_comment: false
 
 
 # Analytics settings
-# Baidu Analytics 
+# Baidu Analytics
 # ba_track_id: [your track id]
 
 # Google Analytics
