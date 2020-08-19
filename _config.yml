@@ -88,6 +88,6 @@ service-worker: true
 friends: [
     {
         title: "我的主页",
-        href: "http://91888lucky.com/"
+        href: "http://feecn.com/"
     }
 ]
