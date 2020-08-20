@@ -18,7 +18,7 @@ tags:
 
 张宇 的 Blog 就这么开通了。
 
-感谢[huangxuan](http://huangxuan.me/portfolio)，借助他所介绍的技术开通了。
+感谢[huangxuan](http://huangxuan.me)，借助他所介绍的技术开通了。
 
 <p id = "build"></p>
 ---
