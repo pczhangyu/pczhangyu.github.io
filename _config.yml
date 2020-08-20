@@ -67,7 +67,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "目标是：<br>冲出太阳系，统治全宇宙。"
+sidebar-about-description: "目标是：<br>冲出太阳系，控制银河系，统治全宇宙。"
 sidebar-avatar: /img/04-spitzer-helixnebula.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
