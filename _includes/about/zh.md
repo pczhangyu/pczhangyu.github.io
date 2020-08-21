@@ -1,5 +1,5 @@
-> 目标是：  
-> 冲出太阳系，控制银河系，统治全宇宙。。
+> 孔子曰：  
+> 人无远虑，必有近忧。
 
 welcome to zhang yu 's playground 
 
